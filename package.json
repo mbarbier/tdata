@@ -1,6 +1,8 @@
 {
     "version": "0.1.0",
-    "dependencies": {},
+    "dependencies": {
+        "gh-pages": "^3.2.3"
+    },
     "scripts": {
         "deploy": "gh-pages -d dist"
     }
